@@ -6,7 +6,7 @@
 
 [Web Security](https://ksatvat.github.io/Web_Security/)
 
-  - [Cross-Site Scripting](https://ksatvat.github.io/Cross-Site-Scripting/)
+  - [Cross-Site Scripting (XSS)](https://ksatvat.github.io/Cross-Site-Scripting/)
 
   - [SQL Injection](https://ksatvat.github.io/SQL-Injection/)
 
