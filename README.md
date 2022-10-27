@@ -1,4 +1,4 @@
-# Python
+# Python Guidelines
 
 [Input Validation](https://ksatvat.github.io/Input_Validation/)
 
