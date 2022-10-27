@@ -6,9 +6,9 @@
 
 [Web Security](https://ksatvat.github.io/Web_Security/)
 
-  - [Cross-Site Scripting](https://ksatvat.github.io/Key-Management/)
+  - [Cross-Site Scripting](https://ksatvat.github.io/Cross-Site-Scripting/)
 
-  - [SQL Injection](https://ksatvat.github.io/Key-Management/)
+  - [SQL Injection](https://ksatvat.github.io/SQL-Injection/)
 
   - [Cookie Security](https://ksatvat.github.io/Key-Management/)
 
