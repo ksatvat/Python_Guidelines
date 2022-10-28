@@ -14,10 +14,10 @@
 
   - [Cross-Frame Scripting](https://ksatvat.github.io/Key-Management/)
 
-  - [Cross-Site Request Forgery](https://ksatvat.github.io/Key-Management/)
+  - [Cross-Site Request Forgery](https://ksatvat.github.io/Cross-Site-Request-Forgery/)
 
-  - [HTML5](https://ksatvat.github.io/Key-Management/)
+  - [HTML5](https://ksatvat.github.io/HTML5/)
 
-  - [NoSQL Injection](https://ksatvat.github.io/Key-Management/)
+  - [NoSQL Injection](https://ksatvat.github.io/NoSQL-Injection/)
 
-  - [Django Bad Practices](https://ksatvat.github.io/Key-Management/)
+  - [Django Bad Practices]( https://ksatvat.github.io/Django-Bad-Practices/)
