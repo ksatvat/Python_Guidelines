@@ -4,7 +4,7 @@
 
 [Key Management](https://ksatvat.github.io/Key-Management/)
 
-[Web Security](https://ksatvat.github.io/Web_Security/)
+Web Security
 
   - [Cross-Site Scripting (XSS)](https://ksatvat.github.io/Cross-Site-Scripting/)
 
